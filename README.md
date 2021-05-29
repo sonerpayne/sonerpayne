@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sonerpayne
-- 👀 I’m interested in software engineering and Game Development
-- 🌱 I’m currently learning C#
+- 🎥Unity eğitimleri verdiğim YouTube kanalım (my channel for unity tutorials):
+- https://www.youtube.com/channel/UCvhe_OSLo238o4YK-dO3IlA/videos
 
 <!---
 sonerpayne/sonerpayne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
